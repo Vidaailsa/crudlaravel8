@@ -1,0 +1,40 @@
+.container {
+    margin-top: 5rem;
+    padding: 5rem;
+    margin-left: 5rem;
+}
+
+.judul {
+    margin-top: 3rem;
+    margin-left: 3rem;
+}
+
+.card {
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+.navbar {
+    padding-bottom: 2rem;
+}
+
+.navbar span,
+.h1 {
+    margin-left: 5rem;
+    justify-content: center;
+    color: white;
+}
+
+.container-fluid {
+    margin-bottom: 0.5rem;
+}
+
+footer {
+    background-color: #0051ff;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    bottom: 0rem;
+    display: fixed;
+    margin-top: 20rem;
+}
